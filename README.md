@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Heba Hesham</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hebahe262&label=Profile%20views&color=0e75b6&style=flat" alt="hebahe262" /> </p>
 
